@@ -1,0 +1,11 @@
+# For serial communication with sensors (Lidar, GPS, Remote)
+pyserial
+rplidar-roboticia
+
+# For PWM Motor control on Raspberry Pi
+# This will only install on a Raspberry Pi.
+# For development on other systems, you can comment this line out.
+gpiozero
+
+# For keyboard input in simulation mode
+keyboard
